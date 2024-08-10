@@ -1,5 +1,3 @@
-## Get Started
-You can use TNP_BIT now at https://tnpbitmesra.netlify.app/
 
 # Project Title
 
