@@ -25,5 +25,4 @@ const PrivateRoute = ({ children }) => {
 
   return context.user ? children : <Navigate to="/" />;
 };
-
 export default PrivateRoute;

@@ -1,0 +1,5 @@
+name = "tnp-bit"
+compatibility_date = "2025-04-11"
+
+[site]
+bucket = "./dist"
