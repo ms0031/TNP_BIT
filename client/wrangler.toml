@@ -1,0 +1,10 @@
+# Remove deprecated [site] configuration and use new pages format
+name = "tnp-bit"
+compatibility_date = "2024-03-18"
+
+[pages]
+bucket = "./dist"
+entry-point = "."
+
+[build]
+command = "npm run build"
